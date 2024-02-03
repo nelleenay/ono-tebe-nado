@@ -192,12 +192,12 @@
 
 .card-link {
     display: block;
-    text-decoration: none;    
+    text-decoration: none;
 }
 
 .card {
     position: relative;
-    min-height: 563px;    
+    min-height: 563px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
